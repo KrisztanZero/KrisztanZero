@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KrisztanZero
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Github
-- 💞️ I’m looking to collaborate on Github
+- 👋 Hi, I’m Krisztián Molnár
+- 👀 I’m interested in ASP.Net and programming languages like javascript and C#
+- 🌱 I’m currently learning coding
+- 👌 I’m develop my skills to reach better knoweledge.
 - 📫 To reach me please send message!
 
 <!---
